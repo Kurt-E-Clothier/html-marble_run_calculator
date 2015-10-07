@@ -7,19 +7,14 @@ Each participant receives a score card and travels along the designated route vi
 ##Licensing
 The MIT License (MIT). See LICENSE.txt.
 
-##TO DO
-* Create template directory for projects.
-* Complete *librarian* makefile template.
-* Poplulate with existing AVR projects.
-
 ##Calculator Use
 The web page can be viewed here:
 <p>
-The source code is also available on the gh-pages branch.
+The source code is also available on the <a href = "https://github.com/Kurt-E-Clothier/html-marble_run_calculator/tree/gh-pages" target="_blank">gh-pages branch</a>.
 <p>
 Tested on:
 * Google Chrome Version 45
 * Internet Explorer Version 11
 * Mozilla Firevox Version 41
 <p>
-No guarantees are made for compatibility with other or older browsers.
+*No guarantees are made for compatibility with other or older browsers.*
