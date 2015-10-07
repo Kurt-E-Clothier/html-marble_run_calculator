@@ -5,7 +5,7 @@ Each participant receives a score card and travels along the designated route vi
 <p>
 
 ##Licensing
-The MIT License (MIT). See LICENSE.txt.
+The MIT License (MIT). See <a href = "LICENSE.txt" target="_blank">LICENSE.txt</a>.
 
 ##Calculator Use
 The web page can be viewed here:
