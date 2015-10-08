@@ -7,7 +7,7 @@ Please see the <a href = "https://github.com/Kurt-E-Clothier/html-marble_run_cal
 The MIT License (MIT). See <a href = "LICENSE.txt" target="_blank">LICENSE.txt</a>.
 
 ##Calculator Use
-The web page can be viewed here: https://kurt-e-clothier.github.io/html-marble_run_calculator/
+The web page can be viewed here: <a href="https://kurt-e-clothier.github.io/html-marble_run_calculator/" target="_blank">Mable Run Calculator</a>.
 <p>
 Tested on:
 * Google Chrome Version 45
