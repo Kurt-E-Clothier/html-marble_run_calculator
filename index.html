@@ -40,25 +40,28 @@
 			height: auto; overflow: hidden;
 		}
 		#marbles{
-			margin-left: 15px; margin-top: 15px; float: left; width: auto; overflow: hidden;
+			margin-top: 15px; float: left; width: auto; overflow: hidden;
 			text-align:center; padding:5px;  border-collapse: collapse;
 		}
 		#marbles td, #marbles th {
-			min-width: 100px;
+			min-width: 65px; text-align: center; font-weight: bold;
+		}
+		#marbles td {
+			font-size: 1.3em; 
 		}
 		#marbles th {
-			font-weight: bold; font-size: 1.5em; text-align:center; padding:5px;
+			font-size: 1.5em; padding:5px;
 		}
 		#marbles tr.alt td, #marbles tr.alt th {
 			background-color: #E8E8E8
 		}
 		#marbles input[type=number]::-webkit-inner-spin-button, 
-		#marbles input[type=number]::-webkit-outer-spin-button { 
+		#marbles input[type=number]::-webkit-outer-spin-button {
 			-webkit-appearance: none; margin: 0; 
 		}
 		#marbles input[type=number], #control input[type=text] {
 			padding-left: 10px; height: 30px; font-family: monospace;
-			position: relative; outline: none; width: 70px;
+			position: relative; outline: none; width: 50px;
 			border: 1px solid #000000; background-color: white; font-size: 16px;
 		}
 		#control {
