@@ -3,6 +3,8 @@ The marble run is an event held by numerous clubs and organizations, similar to 
 <p>
 Each participant receives a score card and travels along the designated route via automobile, ATV, cycle, or by foot and stops at designated areas. At these areas, a colored marble is drawn from a bag, that color is recorded on the scorecard, and the participant continues.
 <p>
+In the current implementation, the values are chosen at random from a known set. This is the desired behavior; however, this can easily be altered to allow any random number between a minimum and maximum values. In fact, this functionality exists in this code, but is commented out (in the <i>randomize()</i> function.
+<p>
 
 ##Licensing
 The MIT License (MIT). See <a href = "LICENSE.txt" target="_blank">LICENSE.txt</a>.
