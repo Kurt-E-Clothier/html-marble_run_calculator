@@ -1,12 +1,12 @@
-##Marble Run Calculator
+##M arble Run Calculator
 This branch contains the web page source code.
 <p>
 Please see the <a href = "https://github.com/Kurt-E-Clothier/html-marble_run_calculator/tree/master" target="_blank">master branch</a> for more information.
 
-##Licensing
+## Licensing
 The MIT License (MIT). See <a href = "LICENSE.txt" target="_blank">LICENSE.txt</a>.
 
-##Calculator Use
+## Calculator Use
 The web page can be viewed here: <a href="https://kurt-e-clothier.github.io/html-marble_run_calculator/" target="_blank">Mable Run Calculator</a>.
 <p>
 Tested on:
