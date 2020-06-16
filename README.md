@@ -1,4 +1,4 @@
-##M arble Run Calculator
+## Marble Run Calculator
 This branch contains the web page source code.
 <p>
 Please see the <a href = "https://github.com/Kurt-E-Clothier/html-marble_run_calculator/tree/master" target="_blank">master branch</a> for more information.
