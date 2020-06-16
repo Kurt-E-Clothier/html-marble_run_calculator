@@ -16,8 +16,8 @@ The web page can be viewed here: <a href="https://kurt-e-clothier.github.io/html
 The source code is also available on the <a href = "https://github.com/Kurt-E-Clothier/html-marble_run_calculator/tree/gh-pages" target="_blank">gh-pages branch</a>.
 <p>
 Tested on:
-* Google Chrome Version 45
-* Internet Explorer Version 11
-* Mozilla Firevox Version 41
+  * Google Chrome Version 45
+  * Internet Explorer Version 11
+  * Mozilla Firevox Version 41
 <p>
 *No guarantees are made for compatibility with other or older browsers.*
